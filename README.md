@@ -1,2 +1,3 @@
 # pylogger
-Keylogger written in Python
+
+Keylogger written in Python, for educational purposes only.
